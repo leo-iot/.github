@@ -6,7 +6,7 @@ Leo IOT is the iot ecosystem of the HTL Leonding. It consists of multiple reposi
 
 - [Homepage (Coming Soon)](leo-iot.github.com)
 - [3d Model](http://vm139.htl-leonding.ac.at/en/3d)  
-- [Dashboard](http://vm139.htl-leonding.ac.at/en/dashboard)  
+- [Dashboard](https://student.cloud.htl-leonding.ac.at/m.eder3/frontend/dashboard)  
 
 ## Repositories
 
